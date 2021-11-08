@@ -1,0 +1,14 @@
+time
+threading
+requests
+random
+re
+itertools
+datetime
+selenium
+bs4
+colorama
+discord
+discord.abc
+discord.ext.commands
+discord.ext
