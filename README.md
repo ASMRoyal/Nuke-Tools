@@ -1,6 +1,6 @@
-some discord raiding tools !
+Some Discord Raiding Tools !
  created by ASM_Royal (me)
- if you want some updates, contact me on discord: ASM_Royal#9532
+ If you want some Updates, contact me on Discord: ASM_Royal#9532
 
 Nuke Hub:
 
