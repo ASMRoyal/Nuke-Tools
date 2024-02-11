@@ -1,6 +1,6 @@
 Some Discord Raiding Tools !
  created by ASM_Royal (me)
- If you want some Updates, contact me on Discord: ASM_Royal#6666
+ If you want some Updates, contact me on Discord: 0xYZ
 
 Nuke Hub:
 
